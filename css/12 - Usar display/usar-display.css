@@ -1,0 +1,22 @@
+/* Usar display */
+
+body {
+    background-color: azure;
+    color: #0000ff;
+}
+
+#texto_2 {
+    display: none;
+}
+
+#texto_4 {
+    visibility: hidden;
+}
+
+#texto_6 {
+    display: block;
+}
+
+li {
+    display: inline;
+}

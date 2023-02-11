@@ -1,0 +1,25 @@
+/* Lista personalizada */
+
+body {
+    background-color :azure;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+ul {
+    background-color: cornflowerblue;
+    padding: 20px 0 20px 40px;
+    list-style-type: none;
+}
+
+ul li {
+    background-color: #cce5ff;
+    margin: 5px 0;
+    font-weight: 700;
+}
+
+

@@ -1,0 +1,29 @@
+/* Tabelas personalizadas */
+
+body {
+    background-color: azure;
+    color: blue;
+}
+
+table, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+}
+
+.text_left {
+    text-align: left;
+}
+
+.text_right {
+    text-align: center;
+}
+
+th {
+    background-color: #254696;
+    color: #fff;
+}

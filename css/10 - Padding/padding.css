@@ -1,0 +1,39 @@
+/* Padding */
+
+body {
+    background-color: #e8e8e8;
+    color: #2d49a6;
+}
+
+header img {
+    width: 150px;
+}
+
+header {
+    background-color: #6800ff;
+    color: #fff;
+    /* width: 100%; */
+    height: 70px;
+    padding-top: 40px;
+    padding-right: 50px;
+    padding-bottom: 60px;
+    padding-left: 40px;
+}
+
+nav {
+    background-color: #ffd700;
+    padding: 15px 16px 14px 18px;
+}
+
+article {
+    background-color: #008000;
+    color: #fff;
+    padding: 35px 18px;
+}
+
+footer {
+    background-color: #850000;
+    color: #fff;
+    padding: 45px;
+    text-align: center;
+}
