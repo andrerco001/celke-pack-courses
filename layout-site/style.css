@@ -234,6 +234,22 @@ section {
     padding: 50px 0;
 }
 
+footer {
+    background: #0c0f16;
+    padding: 25px 23px;
+    color: #fff;
+    text-align: center;
+    font-family: 'Poppins', 'sans-serif';
+}
+
+footer span a {
+    color: #547ec7;
+}
+
+footer span a:hover {
+    color: #fff;
+}
+
 /* Medias queries */
 @media (max-width: 1104px) {
     .premium .premium-content .left img {
